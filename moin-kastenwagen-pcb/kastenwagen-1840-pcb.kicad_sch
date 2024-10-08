@@ -3633,7 +3633,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "C5349953"
 				(at 1.778 -10.16 0)
 				(effects
 					(font
@@ -8108,7 +8108,7 @@
 	)
 	(text "SPI1_MOSI/TIM3_CH2/FT"
 		(exclude_from_sim no)
-		(at 100.076 335.026 0)
+		(at 90.678 335.026 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17126,7 +17126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 114.935 179.705 0)
 			(effects
 				(font
@@ -17264,7 +17264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 160.655 179.705 0)
 			(effects
 				(font
@@ -18166,7 +18166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 330.835 191.135 0)
 			(effects
 				(font
@@ -18233,7 +18233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 146.685 179.705 0)
 			(effects
 				(font
@@ -18301,7 +18301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 300.355 193.675 0)
 			(effects
 				(font
@@ -18709,7 +18709,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 421.64 455.9235 0)
 			(effects
 				(font
@@ -18932,7 +18932,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 635 455.9235 0)
 			(effects
 				(font
@@ -19002,7 +19002,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 543.56 455.9235 0)
 			(effects
 				(font
@@ -19221,7 +19221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 603.758 474.98 0)
 			(effects
 				(font
@@ -19426,7 +19426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 268.478 474.98 0)
 			(effects
 				(font
@@ -19636,7 +19636,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "TF_WS2812_1010"
@@ -19645,7 +19644,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TFL:LED_WS2812B_1010_Xinlight"
@@ -19658,7 +19656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 695.198 474.98 0)
 			(effects
 				(font
@@ -19847,7 +19845,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 513.08 455.9235 0)
 			(effects
 				(font
@@ -20023,7 +20021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 298.958 474.98 0)
 			(effects
 				(font
@@ -20164,7 +20162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 329.438 474.98 0)
 			(effects
 				(font
@@ -20289,7 +20287,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 254 455.9235 0)
 			(effects
 				(font
@@ -20424,7 +20422,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 482.6 455.9235 0)
 			(effects
 				(font
@@ -20574,7 +20572,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 558.8 455.9235 0)
 			(effects
 				(font
@@ -20709,7 +20707,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 345.44 455.9235 0)
 			(effects
 				(font
@@ -20796,7 +20794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 436.118 474.98 0)
 			(effects
 				(font
@@ -20855,7 +20853,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 680.72 455.9235 0)
 			(effects
 				(font
@@ -20922,7 +20920,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "TF_WS2812_1010"
@@ -20931,7 +20928,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TFL:LED_WS2812B_1010_Xinlight"
@@ -20944,7 +20940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 679.958 474.98 0)
 			(effects
 				(font
@@ -20994,7 +20990,7 @@
 		(dnp no)
 		(uuid "445c11a3-8f51-402d-9b29-cf64602566ee")
 		(property "Reference" "LED30"
-			(at 662.94 458.5014 0)
+			(at 660.4 458.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21002,7 +20998,7 @@
 			)
 		)
 		(property "Value" "TF_WS2812_1010"
-			(at 662.94 461.0414 0)
+			(at 660.4 461.0414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21019,7 +21015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 649.478 474.98 0)
 			(effects
 				(font
@@ -21078,7 +21074,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 589.28 455.9235 0)
 			(effects
 				(font
@@ -21165,7 +21161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 390.398 474.98 0)
 			(effects
 				(font
@@ -21224,7 +21220,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 665.48 455.9235 0)
 			(effects
 				(font
@@ -21294,7 +21290,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 711.2 455.9235 0)
 			(effects
 				(font
@@ -21557,7 +21553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 344.678 474.98 0)
 			(effects
 				(font
@@ -21633,7 +21629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 466.598 474.98 0)
 			(effects
 				(font
@@ -21758,7 +21754,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 497.84 455.9235 0)
 			(effects
 				(font
@@ -21975,7 +21971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 283.718 474.98 0)
 			(effects
 				(font
@@ -22034,7 +22030,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 360.68 455.9235 0)
 			(effects
 				(font
@@ -22259,7 +22255,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 299.72 455.9235 0)
 			(effects
 				(font
@@ -22329,7 +22325,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 436.88 455.9235 0)
 			(effects
 				(font
@@ -22487,7 +22483,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 208.28 455.9235 0)
 			(effects
 				(font
@@ -22557,7 +22553,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 406.4 455.9235 0)
 			(effects
 				(font
@@ -22644,7 +22640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 588.518 474.98 0)
 			(effects
 				(font
@@ -22703,7 +22699,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 528.32 455.9235 0)
 			(effects
 				(font
@@ -22946,7 +22942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 542.798 474.98 0)
 			(effects
 				(font
@@ -23022,7 +23018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 420.878 474.98 0)
 			(effects
 				(font
@@ -23169,7 +23165,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 695.96 455.9235 0)
 			(effects
 				(font
@@ -23239,7 +23235,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 375.92 455.9235 0)
 			(effects
 				(font
@@ -23374,7 +23370,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 314.96 455.9235 0)
 			(effects
 				(font
@@ -23526,7 +23522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 314.198 474.98 0)
 			(effects
 				(font
@@ -23731,7 +23727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 634.238 474.98 0)
 			(effects
 				(font
@@ -23856,7 +23852,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 238.76 455.9235 0)
 			(effects
 				(font
@@ -24009,7 +24005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 664.718 474.98 0)
 			(effects
 				(font
@@ -24085,7 +24081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 451.358 474.98 0)
 			(effects
 				(font
@@ -24161,7 +24157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 405.638 474.98 0)
 			(effects
 				(font
@@ -24353,7 +24349,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 452.12 455.9235 0)
 			(effects
 				(font
@@ -24440,7 +24436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 207.518 474.98 0)
 			(effects
 				(font
@@ -24651,7 +24647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 527.558 474.98 0)
 			(effects
 				(font
@@ -24707,7 +24703,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "TF_WS2812_1010"
@@ -24716,7 +24711,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TFL:LED_WS2812B_1010_Xinlight"
@@ -24729,7 +24723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 710.438 474.98 0)
 			(effects
 				(font
@@ -25125,7 +25119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 573.278 474.98 0)
 			(effects
 				(font
@@ -25184,7 +25178,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 223.52 455.9235 0)
 			(effects
 				(font
@@ -25271,7 +25265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 512.318 474.98 0)
 			(effects
 				(font
@@ -25347,7 +25341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 375.158 474.98 0)
 			(effects
 				(font
@@ -25804,7 +25798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 222.758 474.98 0)
 			(effects
 				(font
@@ -25863,7 +25857,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 269.24 455.9235 0)
 			(effects
 				(font
@@ -26212,7 +26206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 237.998 474.98 0)
 			(effects
 				(font
@@ -26288,7 +26282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 481.838 474.98 0)
 			(effects
 				(font
@@ -26413,7 +26407,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 619.76 455.9235 0)
 			(effects
 				(font
@@ -26566,7 +26560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 497.078 474.98 0)
 			(effects
 				(font
@@ -26703,7 +26697,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 391.16 455.9235 0)
 			(effects
 				(font
@@ -26838,7 +26832,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 604.52 455.9235 0)
 			(effects
 				(font
@@ -26924,7 +26918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C318884"
 			(at 377.825 342.265 0)
 			(effects
 				(font
@@ -26934,6 +26928,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 377.825 342.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr Part" "TS-1187A-B-A-B "
 			(at 377.825 342.265 0)
 			(effects
 				(font
@@ -26976,7 +26979,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 284.48 455.9235 0)
 			(effects
 				(font
@@ -27063,7 +27066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 618.998 474.98 0)
 			(effects
 				(font
@@ -27122,7 +27125,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 330.2 455.9235 0)
 			(effects
 				(font
@@ -27322,7 +27325,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 574.04 455.9235 0)
 			(effects
 				(font
@@ -27458,7 +27461,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 467.36 455.9235 0)
 			(effects
 				(font
@@ -27611,7 +27614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 253.238 474.98 0)
 			(effects
 				(font
@@ -27984,7 +27987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 558.038 474.98 0)
 			(effects
 				(font
@@ -28060,7 +28063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 359.918 474.98 0)
 			(effects
 				(font
@@ -28195,7 +28198,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 650.24 455.9235 0)
 			(effects
 				(font

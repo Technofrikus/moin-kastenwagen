@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.254
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -67,7 +67,6 @@
         "clearance|357755716|112450140|b4cfd086-5ca4-4c56-a7af-ec583fb41184|c4a38067-0acd-4379-b5f2-b07946e89170",
         "clearance|434556250|89462500|cd2db8bf-3533-43cc-a0f4-d784d5fd848b|26899c0b-3263-46b4-94ab-8ebffd0f7920",
         "clearance|435306250|89462500|cd2db8bf-3533-43cc-a0f4-d784d5fd848b|ca1b4f99-7ab1-4134-ae49-f08ad88dc2dd",
-        "clearance|443051250|84197500|fa9d33fa-c24b-4288-a717-e4b4a784329c|d0f6526e-e3d1-40bc-9f05-b9d6e94369db",
         "shorting_items|101181250|89197500|46626bfa-8ac3-4530-872e-4d2b8b1c377c|e1b00f68-a370-400c-801e-0b4b6ee58c75",
         "shorting_items|101181250|89418750|46626bfa-8ac3-4530-872e-4d2b8b1c377c|c8fba2a6-4bd4-4280-aefb-a8f09fcc73f6",
         "shorting_items|434556250|89197500|cd2db8bf-3533-43cc-a0f4-d784d5fd848b|e438929f-1698-4839-951e-c691691313af"
@@ -150,7 +149,7 @@
         "min_track_width": 0.127,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.6,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
