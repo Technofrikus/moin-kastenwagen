@@ -1,11 +1,13 @@
 {
   "board": {
-    "active_layer": 51,
+    "active_layer": 25,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "hidden_nets": [
+      "GND"
+    ],
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -15,14 +17,15 @@
       "vias": 1.0,
       "zones": 0.6
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
       "graphics": true,
-      "keepouts": true,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
+      "otherItems": false,
+      "pads": false,
       "text": true,
       "tracks": true,
       "vias": true,
@@ -45,11 +48,9 @@
       "pads",
       "zones",
       "drc_warnings",
-      "locked_item_shadows",
-      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
+    "visible_layers": "00000000_00000000_0ffcffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +60,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "moin-kastenwagen-plate.kicad_prl",
+    "filename": "kastenwagen-1840-pcb.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -97,7 +98,7 @@
       103,
       74,
       103,
-      103
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

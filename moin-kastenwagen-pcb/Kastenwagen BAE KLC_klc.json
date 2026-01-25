@@ -1,0 +1,1092 @@
+{
+  "version": "2.0.0",
+  "meta": {
+    "name": "Kastenwagen BAE KLC",
+    "author": "Technofrikus",
+    "notes": "",
+    "created": "2026-01-25T17:51:25.725Z",
+    "modified": "2026-01-25T17:51:25.725Z"
+  },
+  "settings": {
+    "unitSize": 54,
+    "keySpacing": 1
+  },
+  "keys": [
+    {
+      "id": "key_1769361042114_373_x416b0t",
+      "x": 0,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Esc",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "key_1769361042114_374_4ehvuih",
+      "x": 1,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Q"
+      ]
+    },
+    {
+      "id": "key_1769361042114_375_tx5phpd",
+      "x": 2,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "W"
+      ]
+    },
+    {
+      "id": "key_1769361042114_376_d8fir5u",
+      "x": 3,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "E"
+      ]
+    },
+    {
+      "id": "key_1769361042114_377_njldmv6",
+      "x": 4,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "R"
+      ]
+    },
+    {
+      "id": "key_1769361042114_378_0nz9cig",
+      "x": 5,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "T"
+      ]
+    },
+    {
+      "id": "key_1769361042114_379_yant7dw",
+      "x": 6,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Y"
+      ]
+    },
+    {
+      "id": "key_1769361042114_380_ha0y6zy",
+      "x": 7,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "U"
+      ]
+    },
+    {
+      "id": "key_1769361042114_381_3mn1yc2",
+      "x": 8,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "I"
+      ]
+    },
+    {
+      "id": "key_1769361042114_382_wwc14zn",
+      "x": 9,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "O"
+      ]
+    },
+    {
+      "id": "key_1769361042114_383_nrdrs8p",
+      "x": 10,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "P"
+      ]
+    },
+    {
+      "id": "key_1769361042114_384_yzur4j9",
+      "x": 11,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Ü"
+      ]
+    },
+    {
+      "id": "key_1769361042115_385_2egdt5b",
+      "x": 12,
+      "y": 2.5,
+      "width": 1.75,
+      "height": 1,
+      "color": "#dadada",
+      "profile": "DCS",
+      "labels": [
+        "Backspace",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.75u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_386_wl5s12e",
+      "x": 14.5,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "="
+      ]
+    },
+    {
+      "id": "key_1769361042115_387_jbwwv4n",
+      "x": 15.5,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "7"
+      ]
+    },
+    {
+      "id": "key_1769361042115_388_ktivykd",
+      "x": 16.5,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "8"
+      ]
+    },
+    {
+      "id": "key_1769361042115_389_6efokts",
+      "x": 17.5,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "9"
+      ]
+    },
+    {
+      "id": "key_1769361042115_390_ru1u33j",
+      "x": 18.5,
+      "y": 2.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ENC"
+      ]
+    },
+    {
+      "id": "key_1769361042115_391_dxo9ymc",
+      "x": 0,
+      "y": 3.5,
+      "width": 1.25,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Tab",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_392_2fwz2f5",
+      "x": 1.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "A"
+      ]
+    },
+    {
+      "id": "key_1769361042115_393_figmm34",
+      "x": 2.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "S"
+      ]
+    },
+    {
+      "id": "key_1769361042115_394_7ihpdr8",
+      "x": 3.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "D"
+      ]
+    },
+    {
+      "id": "key_1769361042115_395_8l7542s",
+      "x": 4.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "F"
+      ]
+    },
+    {
+      "id": "key_1769361042115_396_1apomw5",
+      "x": 5.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "G"
+      ]
+    },
+    {
+      "id": "key_1769361042115_397_jhe29no",
+      "x": 6.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "H"
+      ]
+    },
+    {
+      "id": "key_1769361042115_398_769f1fx",
+      "x": 7.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "J"
+      ]
+    },
+    {
+      "id": "key_1769361042115_399_j6ftsv3",
+      "x": 8.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "K"
+      ]
+    },
+    {
+      "id": "key_1769361042115_400_hm3huxc",
+      "x": 9.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "L"
+      ]
+    },
+    {
+      "id": "key_1769361042115_401_1ept7pm",
+      "x": 10.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Ö"
+      ]
+    },
+    {
+      "id": "key_1769361042115_402_ge49lgv",
+      "x": 11.25,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Ä"
+      ]
+    },
+    {
+      "id": "key_1769361042115_403_1uwi5q1",
+      "x": 12.25,
+      "y": 3.5,
+      "width": 1.5,
+      "height": 1,
+      "color": "#dadada",
+      "profile": "DCS",
+      "labels": [
+        "Enter",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.5u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_404_ldvzgu2",
+      "x": 14.5,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "-"
+      ]
+    },
+    {
+      "id": "key_1769361042115_405_ua0qn29",
+      "x": 15.5,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "4"
+      ]
+    },
+    {
+      "id": "key_1769361042115_406_qshfsxl",
+      "x": 16.5,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "5"
+      ]
+    },
+    {
+      "id": "key_1769361042115_407_qrgm5kt",
+      "x": 17.5,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "6"
+      ]
+    },
+    {
+      "id": "key_1769361042115_408_0rdv0j6",
+      "x": 18.5,
+      "y": 3.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "+"
+      ]
+    },
+    {
+      "id": "key_1769361042115_409_3eam90g",
+      "x": 0,
+      "y": 4.5,
+      "width": 1.75,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Shift",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.75u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_410_0tb7ajq",
+      "x": 1.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "Z"
+      ]
+    },
+    {
+      "id": "key_1769361042115_411_fqebwox",
+      "x": 2.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "X"
+      ]
+    },
+    {
+      "id": "key_1769361042115_412_o1zvcbt",
+      "x": 3.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "C"
+      ]
+    },
+    {
+      "id": "key_1769361042115_413_ogbprpa",
+      "x": 4.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "V"
+      ]
+    },
+    {
+      "id": "key_1769361042115_414_ihqrnrh",
+      "x": 5.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "B"
+      ]
+    },
+    {
+      "id": "key_1769361042115_415_yehra73",
+      "x": 6.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "N"
+      ]
+    },
+    {
+      "id": "key_1769361042115_416_trkp6gc",
+      "x": 7.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "M"
+      ]
+    },
+    {
+      "id": "key_1769361042115_417_ni9oj0o",
+      "x": 8.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "<",
+        ","
+      ]
+    },
+    {
+      "id": "key_1769361042115_418_ylni289",
+      "x": 9.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        ">",
+        "."
+      ]
+    },
+    {
+      "id": "key_1769361042115_419_vimdx0q",
+      "x": 10.75,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "?",
+        "/"
+      ]
+    },
+    {
+      "id": "key_1769361042115_420_e2z647u",
+      "x": 11.75,
+      "y": 4.5,
+      "width": 1.25,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "Shift",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_421_osmnv1y",
+      "x": 14.5,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "/"
+      ]
+    },
+    {
+      "id": "key_1769361042115_422_50knw92",
+      "x": 15.5,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1"
+      ]
+    },
+    {
+      "id": "key_1769361042115_423_1dup6xc",
+      "x": 16.5,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2"
+      ]
+    },
+    {
+      "id": "key_1769361042115_424_4xeb4hi",
+      "x": 17.5,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3"
+      ]
+    },
+    {
+      "id": "key_1769361042115_425_rhype8e",
+      "x": 18.5,
+      "y": 4.5,
+      "width": 1,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "*"
+      ]
+    },
+    {
+      "id": "key_1769361042115_426_j5syeuh",
+      "x": 20,
+      "y": 4.5,
+      "width": 1,
+      "height": 2,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "ENT"
+      ],
+      "frontLegends": [
+        "",
+        "1×2",
+        ""
+      ]
+    },
+    {
+      "id": "key_1769361042115_427_35x2bjm",
+      "x": 13.25,
+      "y": 4.75,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "↑"
+      ]
+    },
+    {
+      "id": "key_1769361042115_428_2qjpgs9",
+      "x": 0,
+      "y": 5.5,
+      "width": 1.25,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "Ctrl",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_429_05vd5yc",
+      "x": 1.25,
+      "y": 5.5,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "Alt"
+      ]
+    },
+    {
+      "id": "key_1769361042115_430_w2z3zt2",
+      "x": 2.25,
+      "y": 5.5,
+      "width": 1.25,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "Cmd",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_431_oj9584d",
+      "x": 3.5,
+      "y": 5.5,
+      "width": 2.75,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        "",
+        "2.75u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_432_pinufap",
+      "x": 6.25,
+      "y": 5.5,
+      "width": 2.25,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        "",
+        "2.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_433_rlhpge0",
+      "x": 8.5,
+      "y": 5.5,
+      "width": 1.25,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "Cmd",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_434_0piox8l",
+      "x": 9.75,
+      "y": 5.5,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "Alt"
+      ]
+    },
+    {
+      "id": "key_1769361042115_435_yculeky",
+      "x": 10.75,
+      "y": 5.5,
+      "width": 1.25,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "Fn",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_436_sftz9nj",
+      "x": 15.5,
+      "y": 5.5,
+      "width": 1,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "0"
+      ]
+    },
+    {
+      "id": "key_1769361042115_437_ljl7f2k",
+      "x": 16.5,
+      "y": 5.5,
+      "width": 1,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "."
+      ]
+    },
+    {
+      "id": "key_1769361042115_438_b83dbyp",
+      "x": 17.5,
+      "y": 5.5,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        ","
+      ]
+    },
+    {
+      "id": "key_1769361042115_439_04fuq5x",
+      "x": 18.5,
+      "y": 5.5,
+      "width": 1,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "Enter"
+      ]
+    },
+    {
+      "id": "key_1769361042115_440_ecntm9j",
+      "x": 12.25,
+      "y": 5.75,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "←"
+      ]
+    },
+    {
+      "id": "key_1769361042115_441_c2jrgg6",
+      "x": 13.25,
+      "y": 5.75,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "↓"
+      ]
+    },
+    {
+      "id": "key_1769361042115_442_xtkhhvr",
+      "x": 14.25,
+      "y": 5.75,
+      "width": 1,
+      "height": 1,
+      "color": "#ffffff",
+      "profile": "DCS",
+      "labels": [
+        "→"
+      ]
+    },
+    {
+      "id": "key_1769361042115_443_wqhozm9",
+      "x": 3.5,
+      "y": 7.24,
+      "width": 6.25,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        "",
+        "6.25u"
+      ]
+    },
+    {
+      "id": "key_1769361042115_444_r7vdapo",
+      "x": 15.5,
+      "y": 7.24,
+      "width": 2,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "0",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "frontLegends": [
+        null,
+        "2u"
+      ]
+    },
+    {
+      "id": "key-1769361068569-mw9umydwi",
+      "x": 8.5,
+      "y": 8.24,
+      "width": 1.25,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "Cmd",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "textColor": [],
+      "textSize": [],
+      "frontLegends": [
+        null,
+        "1.25u"
+      ]
+    },
+    {
+      "id": "key-1769361068570-pvjyz1g79",
+      "x": 3.5,
+      "y": 8.24,
+      "width": 5,
+      "height": 1,
+      "color": "#b5b5b5",
+      "profile": "DCS",
+      "labels": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "textColor": [],
+      "textSize": [],
+      "frontLegends": [
+        "",
+        "5u"
+      ]
+    },
+    {
+      "id": "key_1769361214215_445_ozzghjt",
+      "x": 12.25,
+      "y": 0.9900000000000002,
+      "width": 1.5,
+      "height": 1,
+      "x2": 0.75,
+      "y2": -1,
+      "width2": 0.75,
+      "height2": 2,
+      "color": "#dadada",
+      "profile": "OEM",
+      "labels": [
+        "Enter"
+      ],
+      "textColor": [
+        "#000000"
+      ],
+      "frontLegends": [
+        "",
+        "1.5u",
+        ""
+      ]
+    },
+    {
+      "id": "key_1769361241781_446_ijty5ni",
+      "x": 12,
+      "y": -0.009999999999999787,
+      "width": 1,
+      "height": 1,
+      "color": "#dadada",
+      "profile": "OEM",
+      "labels": [
+        "Ü"
+      ],
+      "textColor": [
+        "#000000"
+      ]
+    }
+  ]
+}

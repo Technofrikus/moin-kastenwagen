@@ -1,0 +1,26 @@
+{
+    "common": {
+        "outdir": "production_files"
+    },
+    "bom": {
+        "columns": [
+            "Reference",
+            "Quantity",
+            "Value",
+            "Footprint",
+            "MPN",
+            "LCSC",
+            "Manufacturer",
+			"Original",
+            "Purchase Link"
+        ],
+        "ignore": [],
+        "merge": "Value,Footprint"
+    },
+    "pos": {
+        "format": "csv",
+        "units": "mm",
+        "useaux": true,
+        "only_smd": false
+    }
+}

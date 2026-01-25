@@ -1,0 +1,1022 @@
+{
+  "version": "2.0.0",
+  "meta": {
+    "name": "Kastenwagen BAE Vial.json",
+    "created": "2026-01-25T17:51:13.248Z",
+    "modified": "2026-01-25T17:51:13.248Z"
+  },
+  "settings": {
+    "unitSize": 54,
+    "keySpacing": 1
+  },
+  "keys": [
+    {
+      "id": "key_1769356379810_72_4vtje1t",
+      "x": 18.5,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "e",
+        ""
+      ]
+    },
+    {
+      "id": "key_1769356379810_73_zep8grh",
+      "x": 19.5,
+      "y": 1,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "e",
+        ""
+      ]
+    },
+    {
+      "id": "key_1769356379810_80_qj80hml",
+      "x": 0.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_81_g60wfzl",
+      "x": 1.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,1"
+      ]
+    },
+    {
+      "id": "key_1769356379810_82_izi522q",
+      "x": 2.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,2"
+      ]
+    },
+    {
+      "id": "key_1769356379810_83_hhwdwd6",
+      "x": 3.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,3"
+      ]
+    },
+    {
+      "id": "key_1769356379810_84_6o89j4z",
+      "x": 4.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,4"
+      ]
+    },
+    {
+      "id": "key_1769356379810_85_x9h71my",
+      "x": 5.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,5"
+      ]
+    },
+    {
+      "id": "key_1769356379810_86_nbeqll2",
+      "x": 6.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,6"
+      ]
+    },
+    {
+      "id": "key_1769356379810_87_fyilbkp",
+      "x": 7.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,7"
+      ]
+    },
+    {
+      "id": "key_1769356379810_88_viqqzcx",
+      "x": 8.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,8"
+      ]
+    },
+    {
+      "id": "key_1769356379810_89_03t42kt",
+      "x": 9.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,9"
+      ]
+    },
+    {
+      "id": "key_1769356379810_90_m67x38y",
+      "x": 10.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,10"
+      ]
+    },
+    {
+      "id": "key_1769356379810_91_tis0k6n",
+      "x": 11.5,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,11"
+      ]
+    },
+    {
+      "id": "key_1769356379810_92_zolz8yv",
+      "x": 12.5,
+      "y": 2.25,
+      "width": 1.75,
+      "height": 1,
+      "color": "#dadada",
+      "profile": "DCS",
+      "labels": [
+        "0,12",
+        null,
+        null,
+        "3,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_93_uhe075g",
+      "x": 15.02,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,13"
+      ]
+    },
+    {
+      "id": "key_1769356379810_94_fletvf8",
+      "x": 16.02,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,14"
+      ]
+    },
+    {
+      "id": "key_1769356379810_95_5crs6jg",
+      "x": 17.02,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,15"
+      ]
+    },
+    {
+      "id": "key_1769356379810_96_f6bddfr",
+      "x": 18.02,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "0,16"
+      ]
+    },
+    {
+      "id": "key_1769356379810_97_crwecip",
+      "x": 0.5,
+      "y": 3.25,
+      "width": 1.25,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_98_uxxz3cf",
+      "x": 1.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,1"
+      ]
+    },
+    {
+      "id": "key_1769356379810_99_02fl9cg",
+      "x": 2.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,2"
+      ]
+    },
+    {
+      "id": "key_1769356379810_100_3ibgvdp",
+      "x": 3.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,3"
+      ]
+    },
+    {
+      "id": "key_1769356379810_101_kydsyv7",
+      "x": 4.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,4"
+      ]
+    },
+    {
+      "id": "key_1769356379810_102_dirk10t",
+      "x": 5.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,5"
+      ]
+    },
+    {
+      "id": "key_1769356379810_103_7tnc6g7",
+      "x": 6.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,6"
+      ]
+    },
+    {
+      "id": "key_1769356379810_104_crrpz3n",
+      "x": 7.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,7"
+      ]
+    },
+    {
+      "id": "key_1769356379810_105_zt3oxox",
+      "x": 8.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,8"
+      ]
+    },
+    {
+      "id": "key_1769356379810_106_2d011na",
+      "x": 9.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,9"
+      ]
+    },
+    {
+      "id": "key_1769356379810_107_zd30y92",
+      "x": 10.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,10"
+      ]
+    },
+    {
+      "id": "key_1769356379810_108_wurqfqy",
+      "x": 11.75,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,11"
+      ]
+    },
+    {
+      "id": "key_1769356379810_109_orh9ge4",
+      "x": 12.75,
+      "y": 3.25,
+      "width": 1.5,
+      "height": 1,
+      "color": "#dadada",
+      "profile": "DCS",
+      "labels": [
+        "1,12",
+        null,
+        null,
+        "3,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_110_jby9e6b",
+      "x": 15.02,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,13"
+      ]
+    },
+    {
+      "id": "key_1769356379810_111_4w305n5",
+      "x": 16.02,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,14"
+      ]
+    },
+    {
+      "id": "key_1769356379810_112_2yt9bdv",
+      "x": 17.02,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,15"
+      ]
+    },
+    {
+      "id": "key_1769356379810_113_1w7d2yn",
+      "x": 18.02,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "1,16"
+      ]
+    },
+    {
+      "id": "key_1769356379810_114_6gj8brd",
+      "x": 0.5,
+      "y": 4.25,
+      "width": 1.75,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_115_2t6hmpu",
+      "x": 2.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,1"
+      ]
+    },
+    {
+      "id": "key_1769356379810_116_rbmzaug",
+      "x": 3.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,2"
+      ]
+    },
+    {
+      "id": "key_1769356379810_117_j7db3xz",
+      "x": 4.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,3"
+      ]
+    },
+    {
+      "id": "key_1769356379810_118_7yonzfy",
+      "x": 5.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,4"
+      ]
+    },
+    {
+      "id": "key_1769356379810_119_4iy74p2",
+      "x": 6.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,5"
+      ]
+    },
+    {
+      "id": "key_1769356379810_120_jd642et",
+      "x": 7.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,6"
+      ]
+    },
+    {
+      "id": "key_1769356379810_121_qgizp0l",
+      "x": 8.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,7"
+      ]
+    },
+    {
+      "id": "key_1769356379810_122_5lzr4ph",
+      "x": 9.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,8"
+      ]
+    },
+    {
+      "id": "key_1769356379810_123_vab1wbp",
+      "x": 10.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,9"
+      ]
+    },
+    {
+      "id": "key_1769356379810_124_42v2zja",
+      "x": 11.25,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,10"
+      ]
+    },
+    {
+      "id": "key_1769356379810_125_twfxlyt",
+      "x": 12.25,
+      "y": 4.25,
+      "width": 1.25,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,11"
+      ]
+    },
+    {
+      "id": "key_1769356379810_126_9xk4gsc",
+      "x": 15.02,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,13"
+      ]
+    },
+    {
+      "id": "key_1769356379810_127_70tecct",
+      "x": 16.02,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,14"
+      ]
+    },
+    {
+      "id": "key_1769356379810_128_zzas010",
+      "x": 17.02,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,15"
+      ]
+    },
+    {
+      "id": "key_1769356379810_129_wb5yv4p",
+      "x": 19.02,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#707070",
+      "profile": "DCS",
+      "labels": [
+        "2,17",
+        "",
+        "",
+        "2,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_130_0za3mo6",
+      "x": 20.52,
+      "y": 4.25,
+      "width": 1,
+      "height": 2,
+      "color": "#707070",
+      "profile": "DCS",
+      "labels": [
+        "3,17",
+        "",
+        "",
+        "2,1"
+      ]
+    },
+    {
+      "id": "key_1769356379810_131_wux8yfm",
+      "x": 13.76,
+      "y": 4.51,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "2,12"
+      ]
+    },
+    {
+      "id": "key_1769356379810_132_qix8zn0",
+      "x": 0.5,
+      "y": 5.25,
+      "width": 1.25,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_133_3v23g3z",
+      "x": 1.75,
+      "y": 5.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,1"
+      ]
+    },
+    {
+      "id": "key_1769356379810_134_men5tp6",
+      "x": 2.75,
+      "y": 5.25,
+      "width": 1.25,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,2"
+      ]
+    },
+    {
+      "id": "key_1769356379810_135_nzr6ind",
+      "x": 4,
+      "y": 5.25,
+      "width": 2.75,
+      "height": 1,
+      "color": "#b5b1b1",
+      "profile": "DCS",
+      "labels": [
+        "3,3",
+        "",
+        "",
+        "0,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_136_plodjpr",
+      "x": 6.75,
+      "y": 5.25,
+      "width": 2.25,
+      "height": 1,
+      "color": "#b5b1b1",
+      "profile": "DCS",
+      "labels": [
+        "3,6",
+        "",
+        "",
+        "0,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_137_ijl927h",
+      "x": 9,
+      "y": 5.25,
+      "width": 1.25,
+      "height": 1,
+      "color": "#b5b1b1",
+      "profile": "DCS",
+      "labels": [
+        "3,7",
+        "",
+        "",
+        "0,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_138_cf3pqvh",
+      "x": 10.25,
+      "y": 5.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,8"
+      ]
+    },
+    {
+      "id": "key_1769356379810_139_7nldxx1",
+      "x": 11.25,
+      "y": 5.25,
+      "width": 1.25,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,9"
+      ]
+    },
+    {
+      "id": "key_1769356379810_140_y2vm7no",
+      "x": 16.02,
+      "y": 5.25,
+      "width": 1,
+      "height": 1,
+      "color": "#909090",
+      "profile": "DCS",
+      "labels": [
+        "3,14",
+        "",
+        "",
+        "1,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_141_95q54mm",
+      "x": 17.02,
+      "y": 5.25,
+      "width": 1,
+      "height": 1,
+      "color": "#909090",
+      "profile": "DCS",
+      "labels": [
+        "3,15",
+        "",
+        "",
+        "1,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_142_jvtjgcm",
+      "x": 19.02,
+      "y": 5.25,
+      "width": 1,
+      "height": 1,
+      "color": "#707070",
+      "profile": "DCS",
+      "labels": [
+        "3,17",
+        "",
+        "",
+        "2,0"
+      ]
+    },
+    {
+      "id": "key_1769356379810_143_4nzs9w9",
+      "x": 12.76,
+      "y": 5.51,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,10"
+      ]
+    },
+    {
+      "id": "key_1769356379810_144_5tnqgns",
+      "x": 13.76,
+      "y": 5.51,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,11"
+      ]
+    },
+    {
+      "id": "key_1769356379810_145_lb2js35",
+      "x": 14.78,
+      "y": 5.51,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "DCS",
+      "labels": [
+        "3,12"
+      ]
+    },
+    {
+      "id": "key_1769356379810_146_hzb5ipx",
+      "x": 4,
+      "y": 6.75,
+      "width": 6.25,
+      "height": 1,
+      "color": "#b5b1b1",
+      "profile": "DCS",
+      "labels": [
+        "3,6",
+        "",
+        "",
+        "0,1"
+      ]
+    },
+    {
+      "id": "key_1769356379810_147_8k4tfxt",
+      "x": 16,
+      "y": 6.75,
+      "width": 2,
+      "height": 1,
+      "color": "#909090",
+      "profile": "DCS",
+      "labels": [
+        "3,14",
+        "",
+        "",
+        "1,1"
+      ]
+    },
+    {
+      "id": "key_1769356412728_148_3jpi6g4",
+      "x": 12.75,
+      "y": 0.75,
+      "width": 1.5,
+      "height": 1,
+      "x2": 0.75,
+      "y2": -1,
+      "width2": 0.75,
+      "height2": 2,
+      "color": "#dadada",
+      "profile": "OEM",
+      "labels": [
+        "1,12",
+        null,
+        null,
+        "3,1"
+      ]
+    },
+    {
+      "id": "key_1769356435470_149_5oy9y6i",
+      "x": 12.5,
+      "y": -0.25,
+      "width": 1,
+      "height": 1,
+      "color": "#dadada",
+      "profile": "OEM",
+      "labels": [
+        "0,12",
+        null,
+        null,
+        "3,1"
+      ]
+    },
+    {
+      "id": "key_1769356513303_150_lticj3x",
+      "x": 4,
+      "y": 7.75,
+      "width": 5,
+      "height": 1,
+      "color": "#b5b1b1",
+      "profile": "OEM",
+      "labels": [
+        "3,6",
+        null,
+        null,
+        "0,2"
+      ]
+    },
+    {
+      "id": "key-1769358511359-9ez97o8v2",
+      "x": 9,
+      "y": 7.75,
+      "width": 1.25,
+      "height": 1,
+      "color": "#b5b1b1",
+      "profile": "DCS",
+      "labels": [
+        "3,7",
+        "",
+        "",
+        "0,2"
+      ],
+      "textColor": [],
+      "textSize": []
+    },
+    {
+      "id": "key_1769363066431_671_zdig3w9",
+      "x": 19.02,
+      "y": 3.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "OEM",
+      "labels": [
+        "1,17"
+      ]
+    },
+    {
+      "id": "key_1769363066431_672_cv4923b",
+      "x": 18.02,
+      "y": 4.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "OEM",
+      "labels": [
+        "2,16"
+      ]
+    },
+    {
+      "id": "key_1769363066432_673_rsfday7",
+      "x": 19,
+      "y": 2.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "OEM",
+      "labels": [
+        "0,17"
+      ]
+    },
+    {
+      "id": "key_1769363227438_674_yb77vej",
+      "x": 18,
+      "y": 5.25,
+      "width": 1,
+      "height": 1,
+      "color": "#f9f9f9",
+      "profile": "OEM",
+      "labels": [
+        "3,16"
+      ]
+    }
+  ]
+}

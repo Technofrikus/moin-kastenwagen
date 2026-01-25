@@ -3633,7 +3633,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "C5349953"
 				(at 1.778 -10.16 0)
 				(effects
 					(font
@@ -6709,16 +6709,6 @@
 	)
 	(wire
 		(pts
-			(xy 708.66 464.82) (xy 685.8 464.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "951c6f85-61c2-46b8-ac9c-e830725fd123")
-	)
-	(wire
-		(pts
 			(xy 90.17 53.34) (xy 90.17 55.88)
 		)
 		(stroke
@@ -8118,7 +8108,7 @@
 	)
 	(text "SPI1_MOSI/TIM3_CH2/FT"
 		(exclude_from_sim no)
-		(at 100.076 335.026 0)
+		(at 90.678 335.026 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8444,6 +8434,28 @@
 	)
 	(global_label "GND"
 		(shape input)
+		(at 708.66 472.44 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00008727-ed64-48cf-939b-cfcd20fa1461")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 708.66 479.2957 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
 		(at 403.86 472.44 270)
 		(fields_autoplaced yes)
 		(effects
@@ -8486,7 +8498,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 480.06 452.12 90)
 		(fields_autoplaced yes)
@@ -8552,7 +8564,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 266.7 452.12 90)
 		(fields_autoplaced yes)
@@ -8662,7 +8674,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 236.22 452.12 90)
 		(fields_autoplaced yes)
@@ -8684,7 +8696,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 220.98 452.12 90)
 		(fields_autoplaced yes)
@@ -8750,7 +8762,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 281.94 452.12 90)
 		(fields_autoplaced yes)
@@ -8772,7 +8784,29 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "GND"
+		(shape input)
+		(at 693.42 472.44 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0f5148d2-15e9-420b-9d32-fa0bbd10baf7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 693.42 479.2957 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V"
 		(shape input)
 		(at 449.58 452.12 90)
 		(fields_autoplaced yes)
@@ -8904,7 +8938,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 662.94 452.12 90)
 		(fields_autoplaced yes)
@@ -8948,7 +8982,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 312.42 452.12 90)
 		(fields_autoplaced yes)
@@ -9016,7 +9050,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 713.74 464.82 0)
+		(at 722.63 464.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9026,7 +9060,7 @@
 		)
 		(uuid "2096fd0a-a3aa-46ba-bb5b-8df87a902d54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 720.5957 464.82 0)
+			(at 729.4857 464.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9388,7 +9422,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 342.9 452.12 90)
 		(fields_autoplaced yes)
@@ -9423,6 +9457,28 @@
 		(uuid "4fc0d2e8-2376-48dc-bd01-2657c7e51f9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 90.17 46.7153 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V"
+		(shape input)
+		(at 693.42 452.12 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "52d9275b-9d4e-4516-9405-2f33418e1775")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 693.42 446.8367 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9586,7 +9642,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 403.86 452.12 90)
 		(fields_autoplaced yes)
@@ -9674,7 +9730,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 586.74 452.12 90)
 		(fields_autoplaced yes)
@@ -9696,7 +9752,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 419.1 452.12 90)
 		(fields_autoplaced yes)
@@ -9828,7 +9884,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 388.62 452.12 90)
 		(fields_autoplaced yes)
@@ -9916,7 +9972,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 373.38 452.12 90)
 		(fields_autoplaced yes)
@@ -10004,7 +10060,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 251.46 452.12 90)
 		(fields_autoplaced yes)
@@ -10070,7 +10126,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 297.18 452.12 90)
 		(fields_autoplaced yes)
@@ -10092,7 +10148,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 541.02 452.12 90)
 		(fields_autoplaced yes)
@@ -10224,7 +10280,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 601.98 452.12 90)
 		(fields_autoplaced yes)
@@ -10246,7 +10302,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 647.7 452.12 90)
 		(fields_autoplaced yes)
@@ -10290,7 +10346,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 205.74 452.12 90)
 		(fields_autoplaced yes)
@@ -10400,7 +10456,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 632.46 452.12 90)
 		(fields_autoplaced yes)
@@ -10422,7 +10478,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 510.54 452.12 90)
 		(fields_autoplaced yes)
@@ -10444,7 +10500,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 525.78 452.12 90)
 		(fields_autoplaced yes)
@@ -10479,6 +10535,28 @@
 		(uuid "b5fb9aa3-f675-496c-b818-60eee62c1dac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 151.9381 463.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V"
+		(shape input)
+		(at 708.66 452.12 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b82be687-0b91-4ff7-9dcc-1b180c8176a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 708.66 446.8367 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10752,7 +10830,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 464.82 452.12 90)
 		(fields_autoplaced yes)
@@ -10774,7 +10852,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 358.14 452.12 90)
 		(fields_autoplaced yes)
@@ -10796,7 +10874,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 434.34 452.12 90)
 		(fields_autoplaced yes)
@@ -10994,7 +11072,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 617.22 452.12 90)
 		(fields_autoplaced yes)
@@ -11016,7 +11094,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 495.3 452.12 90)
 		(fields_autoplaced yes)
@@ -11082,7 +11160,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 327.66 452.12 90)
 		(fields_autoplaced yes)
@@ -11126,7 +11204,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 678.18 452.12 90)
 		(fields_autoplaced yes)
@@ -11214,7 +11292,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 556.26 452.12 90)
 		(fields_autoplaced yes)
@@ -11324,7 +11402,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "+5V"
 		(shape input)
 		(at 571.5 452.12 90)
 		(fields_autoplaced yes)
@@ -17048,7 +17126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 114.935 179.705 0)
 			(effects
 				(font
@@ -17186,7 +17264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 160.655 179.705 0)
 			(effects
 				(font
@@ -18088,7 +18166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 330.835 191.135 0)
 			(effects
 				(font
@@ -18155,7 +18233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 146.685 179.705 0)
 			(effects
 				(font
@@ -18223,7 +18301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_S_CPG151101S11_1u"
+		(property "Footprint" "TFL:SW_MX_HS_CPG151101S11_1u+3d"
 			(at 300.355 193.675 0)
 			(effects
 				(font
@@ -18631,7 +18709,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 421.64 455.9235 0)
 			(effects
 				(font
@@ -18854,7 +18932,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 635 455.9235 0)
 			(effects
 				(font
@@ -18924,7 +19002,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 543.56 455.9235 0)
 			(effects
 				(font
@@ -19143,7 +19221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 603.758 474.98 0)
 			(effects
 				(font
@@ -19348,7 +19426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 268.478 474.98 0)
 			(effects
 				(font
@@ -19543,6 +19621,82 @@
 		)
 	)
 	(symbol
+		(lib_id "TFLsymbols:TF_WS2812_1010")
+		(at 693.42 464.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "134db135-ab4d-4124-8af5-43377eceee09")
+		(property "Reference" "LED33"
+			(at 708.66 458.5014 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TF_WS2812_1010"
+			(at 708.66 461.0414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TFL:LED_WS2812B_1010_Xinlight"
+			(at 694.69 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C5349953"
+			(at 695.198 474.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "1010 SMD adressable RGB LED with integrated controller"
+			(at 693.42 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00c9314a-73c7-4936-8b53-55d1f6f10cda")
+		)
+		(pin "2"
+			(uuid "dc4e9499-d22a-470a-9932-030b29a6068a")
+		)
+		(pin "3"
+			(uuid "1ac1ab3e-ad7f-4eea-9bb2-e0236085d99d")
+		)
+		(pin "4"
+			(uuid "0e42723b-71f9-4e30-888e-61015d952e78")
+		)
+		(instances
+			(project "kastenwagen-1840-pcb"
+				(path "/a17147ce-214c-4c58-a0dd-56d448b86609"
+					(reference "LED33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 242.57 287.02 0)
 		(unit 1)
@@ -19691,7 +19845,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 513.08 455.9235 0)
 			(effects
 				(font
@@ -19867,7 +20021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 298.958 474.98 0)
 			(effects
 				(font
@@ -20008,7 +20162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 329.438 474.98 0)
 			(effects
 				(font
@@ -20133,7 +20287,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 254 455.9235 0)
 			(effects
 				(font
@@ -20268,7 +20422,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 482.6 455.9235 0)
 			(effects
 				(font
@@ -20418,7 +20572,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 558.8 455.9235 0)
 			(effects
 				(font
@@ -20553,7 +20707,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 345.44 455.9235 0)
 			(effects
 				(font
@@ -20640,7 +20794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 436.118 474.98 0)
 			(effects
 				(font
@@ -20699,7 +20853,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 680.72 455.9235 0)
 			(effects
 				(font
@@ -20766,7 +20920,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "TF_WS2812_1010"
@@ -20775,7 +20928,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "TFL:LED_WS2812B_1010_Xinlight"
@@ -20788,7 +20940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 679.958 474.98 0)
 			(effects
 				(font
@@ -20838,7 +20990,7 @@
 		(dnp no)
 		(uuid "445c11a3-8f51-402d-9b29-cf64602566ee")
 		(property "Reference" "LED30"
-			(at 662.94 458.5014 0)
+			(at 660.4 458.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20846,7 +20998,7 @@
 			)
 		)
 		(property "Value" "TF_WS2812_1010"
-			(at 662.94 461.0414 0)
+			(at 660.4 461.0414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20863,7 +21015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 649.478 474.98 0)
 			(effects
 				(font
@@ -20922,7 +21074,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 589.28 455.9235 0)
 			(effects
 				(font
@@ -21009,7 +21161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 390.398 474.98 0)
 			(effects
 				(font
@@ -21068,7 +21220,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 665.48 455.9235 0)
 			(effects
 				(font
@@ -21114,6 +21266,76 @@
 			(project "kastenwagen-1840-pcb"
 				(path "/a17147ce-214c-4c58-a0dd-56d448b86609"
 					(reference "C41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 708.66 454.66 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4fb9b4ed-3b43-4b6a-ab46-b3c249ff8133")
+		(property "Reference" "C4"
+			(at 711.2 453.3835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nF"
+			(at 711.2 455.9235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 708.66 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 708.66 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 708.66 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fcb1389d-58df-4b8f-8121-3dc05b9d6e9f")
+		)
+		(pin "1"
+			(uuid "0d0e9bfc-9407-4039-9cbc-bd0fe923a06f")
+		)
+		(instances
+			(project "kastenwagen-1840-pcb"
+				(path "/a17147ce-214c-4c58-a0dd-56d448b86609"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -21331,7 +21553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 344.678 474.98 0)
 			(effects
 				(font
@@ -21407,7 +21629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 466.598 474.98 0)
 			(effects
 				(font
@@ -21532,7 +21754,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 497.84 455.9235 0)
 			(effects
 				(font
@@ -21749,7 +21971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 283.718 474.98 0)
 			(effects
 				(font
@@ -21808,7 +22030,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 360.68 455.9235 0)
 			(effects
 				(font
@@ -22033,7 +22255,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 299.72 455.9235 0)
 			(effects
 				(font
@@ -22103,7 +22325,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 436.88 455.9235 0)
 			(effects
 				(font
@@ -22261,7 +22483,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 208.28 455.9235 0)
 			(effects
 				(font
@@ -22331,7 +22553,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 406.4 455.9235 0)
 			(effects
 				(font
@@ -22418,7 +22640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 588.518 474.98 0)
 			(effects
 				(font
@@ -22477,7 +22699,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 528.32 455.9235 0)
 			(effects
 				(font
@@ -22720,7 +22942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 542.798 474.98 0)
 			(effects
 				(font
@@ -22796,7 +23018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 420.878 474.98 0)
 			(effects
 				(font
@@ -22926,6 +23148,76 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 693.42 454.66 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c748d72-7093-4b40-bb66-14a22a910aa4")
+		(property "Reference" "C3"
+			(at 695.96 453.3835 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nF"
+			(at 695.96 455.9235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 693.42 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 693.42 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 693.42 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "30835989-0684-4443-9dc7-9d0bc31ab195")
+		)
+		(pin "1"
+			(uuid "cc2fd83b-9412-4af9-86f1-61d5ffe279fb")
+		)
+		(instances
+			(project "kastenwagen-1840-pcb"
+				(path "/a17147ce-214c-4c58-a0dd-56d448b86609"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 373.38 454.66 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22943,7 +23235,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 375.92 455.9235 0)
 			(effects
 				(font
@@ -23078,7 +23370,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 314.96 455.9235 0)
 			(effects
 				(font
@@ -23230,7 +23522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 314.198 474.98 0)
 			(effects
 				(font
@@ -23435,7 +23727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 634.238 474.98 0)
 			(effects
 				(font
@@ -23560,7 +23852,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 238.76 455.9235 0)
 			(effects
 				(font
@@ -23713,7 +24005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 664.718 474.98 0)
 			(effects
 				(font
@@ -23789,7 +24081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 451.358 474.98 0)
 			(effects
 				(font
@@ -23865,7 +24157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 405.638 474.98 0)
 			(effects
 				(font
@@ -24057,7 +24349,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 452.12 455.9235 0)
 			(effects
 				(font
@@ -24144,7 +24436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 207.518 474.98 0)
 			(effects
 				(font
@@ -24355,7 +24647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 527.558 474.98 0)
 			(effects
 				(font
@@ -24390,6 +24682,82 @@
 			(project "kastenwagen-1840-pcb"
 				(path "/a17147ce-214c-4c58-a0dd-56d448b86609"
 					(reference "LED22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TFLsymbols:TF_WS2812_1010")
+		(at 708.66 464.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c402ad0-35a0-4848-9b79-722a870a9e9d")
+		(property "Reference" "LED34"
+			(at 723.9 458.5014 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TF_WS2812_1010"
+			(at 723.9 461.0414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TFL:LED_WS2812B_1010_Xinlight"
+			(at 709.93 472.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "C5349953"
+			(at 710.438 474.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "1010 SMD adressable RGB LED with integrated controller"
+			(at 708.66 454.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ae00e6d-2635-4f09-8485-73846ed276ec")
+		)
+		(pin "2"
+			(uuid "e64c93ef-ec03-4968-b9d3-d60cc0ef39d4")
+		)
+		(pin "3"
+			(uuid "4297d0fe-50cc-4cca-b2e5-a28a596521bf")
+		)
+		(pin "4"
+			(uuid "6aec8cb0-e33e-413f-87a7-9eba11c79e51")
+		)
+		(instances
+			(project "kastenwagen-1840-pcb"
+				(path "/a17147ce-214c-4c58-a0dd-56d448b86609"
+					(reference "LED34")
 					(unit 1)
 				)
 			)
@@ -24751,7 +25119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 573.278 474.98 0)
 			(effects
 				(font
@@ -24810,7 +25178,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 223.52 455.9235 0)
 			(effects
 				(font
@@ -24897,7 +25265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 512.318 474.98 0)
 			(effects
 				(font
@@ -24973,7 +25341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 375.158 474.98 0)
 			(effects
 				(font
@@ -25430,7 +25798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 222.758 474.98 0)
 			(effects
 				(font
@@ -25489,7 +25857,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 269.24 455.9235 0)
 			(effects
 				(font
@@ -25632,7 +26000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+		(property "Footprint" "TFL:STAB_MX_P_6.25u_sizelabel"
 			(at 162.56 200.66 0)
 			(effects
 				(font
@@ -25670,7 +26038,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 711.2 464.82 270)
+		(at 720.09 464.82 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25678,7 +26046,7 @@
 		(dnp no)
 		(uuid "b6d1747b-0be5-4c9e-bef9-9b834663b268")
 		(property "Reference" "R2"
-			(at 711.708 465.582 0)
+			(at 720.598 465.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25687,7 +26055,7 @@
 			)
 		)
 		(property "Value" "500"
-			(at 710.184 465.582 0)
+			(at 719.074 465.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25696,7 +26064,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 711.2 464.82 0)
+			(at 720.09 464.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25705,7 +26073,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 711.2 464.82 0)
+			(at 720.09 464.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25714,7 +26082,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 711.2 464.82 0)
+			(at 720.09 464.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25838,7 +26206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 237.998 474.98 0)
 			(effects
 				(font
@@ -25914,7 +26282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 481.838 474.98 0)
 			(effects
 				(font
@@ -26039,7 +26407,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 619.76 455.9235 0)
 			(effects
 				(font
@@ -26192,7 +26560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 497.078 474.98 0)
 			(effects
 				(font
@@ -26329,7 +26697,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 391.16 455.9235 0)
 			(effects
 				(font
@@ -26464,7 +26832,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 604.52 455.9235 0)
 			(effects
 				(font
@@ -26550,7 +26918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C318884"
 			(at 377.825 342.265 0)
 			(effects
 				(font
@@ -26560,6 +26928,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 377.825 342.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr Part" "TS-1187A-B-A-B "
 			(at 377.825 342.265 0)
 			(effects
 				(font
@@ -26602,7 +26979,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 284.48 455.9235 0)
 			(effects
 				(font
@@ -26689,7 +27066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 618.998 474.98 0)
 			(effects
 				(font
@@ -26748,7 +27125,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 330.2 455.9235 0)
 			(effects
 				(font
@@ -26948,7 +27325,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 574.04 455.9235 0)
 			(effects
 				(font
@@ -27084,7 +27461,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 467.36 455.9235 0)
 			(effects
 				(font
@@ -27237,7 +27614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 253.238 474.98 0)
 			(effects
 				(font
@@ -27610,7 +27987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 558.038 474.98 0)
 			(effects
 				(font
@@ -27686,7 +28063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "C5349953"
 			(at 359.918 474.98 0)
 			(effects
 				(font
@@ -27821,7 +28198,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100nF"
 			(at 650.24 455.9235 0)
 			(effects
 				(font
